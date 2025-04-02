@@ -1,0 +1,229 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA_TOOL/Modelsim/modelsim_10.6d/examples
+T_opt
+!s110 1743574189
+V@afobe:d2D]mn`_NL;]]l2
+04 17 4 work tb_axi_async_fifo fast 0
+=15-00e04c97ccd5-67ecd4ad-214-2c90
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+vasync_fifo
+Z1 !s110 1743572996
+!i10b 1
+!s100 7=hJAJBZiId;aWbeUmVT^3
+I;onP8MSK7MA@iD:nHBM5`1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/axi_fifo_sim
+Z4 w1713466970
+8E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/async_fifo.v
+FE:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/async_fifo.v
+L0 7
+Z5 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z6 !s108 1743572996.000000
+!s107 E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/async_fifo.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/async_fifo.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vaxi_async_fifo
+!s110 1743573894
+!i10b 1
+!s100 4o0<4J2oW_`=8XjS0;2`e2
+I]ZG:2OL0DAGWM49SmI2OC2
+R2
+R3
+w1743573827
+8E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/axi_async_fifo.v
+FE:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/axi_async_fifo.v
+L0 16
+R5
+r1
+!s85 0
+31
+!s108 1743573894.000000
+!s107 E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/axi_async_fifo.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/axi_async_fifo.v|
+!i113 0
+R7
+R0
+vfifomem
+R1
+!i10b 1
+!s100 bKFj[h>S@kH`f[]0PF8z?1
+ISi5T?KQNF0dn;gUc`ERJ93
+R2
+R3
+R4
+8E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/fifomem.v
+FE:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/fifomem.v
+L0 7
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/fifomem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/fifomem.v|
+!i113 0
+R7
+R0
+vfifomem_dp
+R1
+!i10b 1
+!s100 UM4:0BfR_6o8QjN7hk7iO0
+IA?RkKLd:;0IPgUj>R4lM50
+R2
+R3
+R4
+8E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/fifomem_dp.v
+FE:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/fifomem_dp.v
+L0 21
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/fifomem_dp.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/fifomem_dp.v|
+!i113 0
+R7
+R0
+vrptr_empty
+R1
+!i10b 1
+!s100 >5lMUlE`kT3QjaDXIh2NG0
+I_QG5WCeB=`FzV5QzS`XaR1
+R2
+R3
+w1743511513
+8E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/rptr_empty.v
+FE:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/rptr_empty.v
+L0 7
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/rptr_empty.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/rptr_empty.v|
+!i113 0
+R7
+R0
+vsync_ptr
+Z8 !s110 1743572997
+!i10b 1
+!s100 J^3KRg8YfHm[D605;m8HY0
+I2b;4dConGYPGQ74:?PPl71
+R2
+R3
+R4
+8E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_ptr.v
+FE:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_ptr.v
+L0 7
+R5
+r1
+!s85 0
+31
+Z9 !s108 1743572997.000000
+!s107 E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_ptr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_ptr.v|
+!i113 0
+R7
+R0
+vsync_r2w
+R8
+!i10b 1
+!s100 :D:T6_o_NlFnVWK4SLR0Y3
+IYz^P[7VlLoNk9D]<ioBK@1
+R2
+R3
+R4
+8E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_r2w.v
+FE:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_r2w.v
+L0 7
+R5
+r1
+!s85 0
+31
+R9
+!s107 E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_r2w.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_r2w.v|
+!i113 0
+R7
+R0
+vsync_w2r
+R8
+!i10b 1
+!s100 3heH4M2z`;M5zDC`B>ihW1
+IB2GePB<Um7J=PaX[]S9A=3
+R2
+R3
+R4
+8E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_w2r.v
+FE:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_w2r.v
+L0 7
+R5
+r1
+!s85 0
+31
+R9
+!s107 E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_w2r.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_w2r.v|
+!i113 0
+R7
+R0
+vtb_axi_async_fifo
+!s110 1743574187
+!i10b 1
+!s100 he<j<Kk:^G^@efEKMf<;^0
+IKSm4;Ho=gdmFj0;mY^71h3
+R2
+R3
+w1743574185
+8E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/axi_fifo_sim/tb_axi_async_fifo.v
+FE:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/axi_fifo_sim/tb_axi_async_fifo.v
+L0 4
+R5
+r1
+!s85 0
+31
+!s108 1743574187.000000
+!s107 E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/axi_fifo_sim/tb_axi_async_fifo.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/axi_fifo_sim/tb_axi_async_fifo.v|
+!i113 0
+R7
+R0
+vwptr_full
+R8
+!i10b 1
+!s100 <Baffc1oRE5>SR]fX2kbX1
+IO^^;:MWVHkWc;LXeXBc>>3
+R2
+R3
+R4
+8E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/wptr_full.v
+FE:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/wptr_full.v
+L0 7
+R5
+r1
+!s85 0
+31
+R9
+!s107 E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/wptr_full.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/wptr_full.v|
+!i113 0
+R7
+R0

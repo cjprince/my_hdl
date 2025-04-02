@@ -1,0 +1,64 @@
+E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/async_fifo.v {1 {vlog -work work -vopt -stats=none E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/async_fifo.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module async_fifo
+
+Top level modules:
+	async_fifo
+
+} {} {}} E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/axi_async_fifo.v {1 {vlog -work work -vopt -stats=none E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/axi_async_fifo.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module axi_async_fifo
+
+Top level modules:
+	axi_async_fifo
+
+} {} {}} E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_ptr.v {1 {vlog -work work -vopt -stats=none E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_ptr.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module sync_ptr
+
+Top level modules:
+	sync_ptr
+
+} {} {}} E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/rptr_empty.v {1 {vlog -work work -vopt -stats=none E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/rptr_empty.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module rptr_empty
+
+Top level modules:
+	rptr_empty
+
+} {} {}} E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/fifomem_dp.v {1 {vlog -work work -vopt -stats=none E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/fifomem_dp.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module fifomem_dp
+
+Top level modules:
+	fifomem_dp
+
+} {} {}} E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/wptr_full.v {1 {vlog -work work -vopt -stats=none E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/wptr_full.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module wptr_full
+
+Top level modules:
+	wptr_full
+
+} {} {}} E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_w2r.v {1 {vlog -work work -vopt -stats=none E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_w2r.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module sync_w2r
+
+Top level modules:
+	sync_w2r
+
+} {} {}} E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_r2w.v {1 {vlog -work work -vopt -stats=none E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/sync_r2w.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module sync_r2w
+
+Top level modules:
+	sync_r2w
+
+} {} {}} E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/fifomem.v {1 {vlog -work work -vopt -stats=none E:/changjiangli/AnLuBoard/AnLuPH1A90Prjs/PHA90SBG484_Prj/async_fifo/src/fifomem.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module fifomem
+
+Top level modules:
+	fifomem
+
+} {} {}}
